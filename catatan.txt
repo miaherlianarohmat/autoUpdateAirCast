@@ -1,0 +1,4 @@
+1. ini baru bisa nyambungin ke jaringan yang sama file client ada di client.py
+2. udah bisa ngirim pesan pemberitahuan lewat client
+3. buat nyari direktori ada di file oh.py dan oh-client.py belum dimasukin ke auto-up karena baru nyoba
+4. bingungnya ini mau dijadiin exe atau gimana
